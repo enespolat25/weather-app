@@ -1,8 +1,6 @@
 # Weather App - ReactJS
 
-See live: [https://react-weather-hakan.netlify.app/](https://react-weather-hakan.netlify.app/)
 
-<img src="./src/WeatherApp.png" width="100%" align="center">
 
 
 # Getting Started with Create React App
